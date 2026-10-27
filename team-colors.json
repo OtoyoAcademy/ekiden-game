@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "description": "駅伝レースシミュレーター・駅伝計測アプリ共通の固定チームカラー",
+  "teams": [
+    {
+      "team_no": 1,
+      "name": "レッド",
+      "hex": "#FA927E"
+    },
+    {
+      "team_no": 2,
+      "name": "ブルー",
+      "hex": "#78C7FC"
+    },
+    {
+      "team_no": 3,
+      "name": "ゴールド",
+      "hex": "#F8CC76"
+    },
+    {
+      "team_no": 4,
+      "name": "グリーン",
+      "hex": "#9EE6B4"
+    },
+    {
+      "team_no": 5,
+      "name": "パープル",
+      "hex": "#C1A6F9"
+    },
+    {
+      "team_no": 6,
+      "name": "ピンク",
+      "hex": "#F6AAD2"
+    },
+    {
+      "team_no": 7,
+      "name": "シアン",
+      "hex": "#88E2DB"
+    },
+    {
+      "team_no": 8,
+      "name": "オレンジ",
+      "hex": "#F3B180"
+    },
+    {
+      "team_no": 9,
+      "name": "ネイビー",
+      "hex": "#A5BDF3"
+    },
+    {
+      "team_no": 10,
+      "name": "ライム",
+      "hex": "#D2E58A"
+    }
+  ]
+}
